@@ -1,0 +1,55 @@
+{
+  "NavegacionGeneral": {
+    "usertitle": "Produtos",
+    "BotonSession": "Salir",
+    "title": "Titulo"
+  },
+  "LoginPage": {
+    "title": "Entrar",
+    "button": "Inciar Sesion",
+    "username": "Nombre",
+    "password": "Clave",
+    "navegacion": "No tienes cuenta aun?",
+    "signup": "Entrar"
+  },
+
+  "RegisterPage": {
+    "title": "Registrarse",
+    "name": "Nombre",
+    "username": "Usuario",
+    "email": "Correo",
+    "phone": "Telefono",
+    "password": "Clave",
+    "button": "Entrar",
+    "navegacion": "Si ya tienes cuenta!"
+  },
+  "ProductList": {
+    "title": "Lista de Productos",
+    "found_products": "productos encontrados",
+    "add_to_cart": "Agregar al Carrito",
+    "previous": "Anterior",
+    "next": "Siguiente"
+  },
+
+  "ProductFilters": {
+    "pricerange": "Rango de Precio",
+    "title": "Todas Las Categorias",
+    "add_to_cart": "Add to Cart",
+    "previous": "Previous",
+    "next": "Next"
+  },
+
+  "userprofile": {
+    "loading": "Cargando",
+    "loginmessage": "Debes loguearte para ver tu perfil",
+    "title": "Perfil de usuario",
+    "Name": "Nombre",
+    "Email": "Email",
+    "Image": "Imagen"
+  },
+  "loginbutton": {
+    "usertitlse": "Conectado como",
+    "signout": "Cerrar sesión",
+    "login": "Ingresar con cuentra Google"
+  }
+}

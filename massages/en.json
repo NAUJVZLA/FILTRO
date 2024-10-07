@@ -1,0 +1,53 @@
+{
+  "NavegacionGeneral": {
+    "usertitle": "Produts",
+    "BotonSession": "LogOut",
+    "title": "title"
+  },
+  "LoginPage": {
+    "title": "Login",
+    "button": "Log In",
+    "username": "username",
+    "password": "Password",
+    "navegacion": "Don't have an account yet?",
+    "signin": "Sign In"
+  },
+
+  "RegisterPage": {
+    "title": "Registration",
+    "name": "Name",
+    "username": "Username",
+    "email": "Email",
+    "phone": "Phone",
+    "password": "Password",
+    "button": "Register",
+    "navegacion": "If you already have an account!"
+  },
+
+  "ProductList": {
+    "title": "Products List",
+    "found_products": "Products Found",
+    "add_to_cart": "Add to Cart",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "ProductFilters": {
+    "pricerange": "Prince Range",
+    "title": "All Categories",
+    "add_to_cart": "Add to Cart",
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "userprofile": {
+    "loading": "loading",
+    "loginmessage": "You must log in to see the user profile",
+    "title": "User profile",
+    "Name": "User name",
+    "Email": "User email",
+    "Image": "Profile photo"
+  },
+  "loginbutton": {
+    "signout": "Log Out",
+    "login": "Log In With Google Account"
+  }
+}
